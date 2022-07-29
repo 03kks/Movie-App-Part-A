@@ -1,0 +1,18 @@
+.header{
+    background: #222;
+    height:36px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-right:32px;
+    padding-left:16px;
+}
+.headerlogo{
+    background:#ff7f7f;
+    height:35px;
+    float:left;
+  animation: spin 8s linear infinite;
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+} 
