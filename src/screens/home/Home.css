@@ -1,0 +1,23 @@
+.heading{
+    background:#ff9999;
+    padding:8px;
+    text-align: center;
+    font-size:1rem;
+}
+.left{
+    width:76%;
+    float:left;
+    margin:16px;
+}
+.filters{
+    width:24%;
+    float:right;
+    margin:16px;
+
+}
+.flex-container{
+    display:flex;
+}
+#findMovies{
+    color:blue;
+}
